@@ -1,5 +1,7 @@
 Feathers
 ==================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-website.svg?token=13f95624426a055a4920713330e98226e890a9dcbbc4dc9a6694586907e139ce)](https://greenkeeper.io/)
 > The marketing site for FeathersJS
 
 <a href="https://www.netlify.com" target="_blank">
